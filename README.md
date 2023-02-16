@@ -5,8 +5,9 @@
 
 # Causal Reinforcement Learning
 
-![new](https://calvindrinks.github.io/new.md)
+[new](https://calvindrinks.github.io/new.md)
 gjglajlfj
+[new](./new.md)
 
 ## 1 Introduction
 
