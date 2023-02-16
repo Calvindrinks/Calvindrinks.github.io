@@ -1,9 +1,12 @@
 ### Hi there 👋
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CalvinDrinks&theme=cobalt)
 
-![new][./new.md]
+
 
 # Causal Reinforcement Learning
+
+![new](./new.md)
+gjglajlfj
 
 ## 1 Introduction
 
